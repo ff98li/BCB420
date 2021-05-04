@@ -1,4 +1,4 @@
-[Compiled html](https://raw.githubusercontent.com/bcb420-2021/Feifei_Li/main/A3_Feifei_Li.html)
+[Compiled report](https://ff98li.github.io/BCB420/report.html)
 
 ## Before compiling the notebook...
 
