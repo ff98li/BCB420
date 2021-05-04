@@ -1,4 +1,4 @@
-[Compiled report](https://ff98li.github.io/BCB420/report.html)
+[Compiled report](https://ff98li.github.io/BCB420/index.html)
 
 ## Before compiling the notebook...
 
